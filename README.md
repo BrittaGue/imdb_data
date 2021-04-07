@@ -3,25 +3,34 @@
 
 ### Data
 
-IMDb is the most popular movie website and it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.
-The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
-The ratings dataset includes 85,855 rating details from demographic perspective.
+IMDb is a popular movie website that combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects. The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc. The ratings dataset includes 85,855 rating details from demographic perspective.
 
-Data has been scraped from the publicly available website https://www.imdb.com.
-All the movies with more than 100 votes have been scraped as of 01/01/2020.
+Data has been scraped from the publicly available website https://www.imdb.com. All the movies with more than 100 votes have been scraped as of 01/01/2020.
 
 The data can be downloaded here: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 
 ### Objectives
 
-Analyze the relationship between budget, world wide gross income and average rating. Does the money spent on a movie determine how well it is perceived? Which directors make on average the most commercially successful movies? How has budget spent on movies and commercial success developed over time? Which country produces the most expensive movies?
 
-What are the rating habits of women and men? Which movies and genres are more popular with which gender?
+How has the total number of movies being produced each year changed over time?
+Analysis of the relationship between budget, worldwide gross income and average rating.
 
-Which production country has the best rated movies? Which country produces the most movies?
+a) Is there a correlation between budget // worldwide gross income // average rating?
 
-Which movies were most polarizing?
+b) How has budget spent on movies and commercial success developed over time?
+
+c) Which directors make the most commercially successful movies (on average)?
+
+d) Which country produces the commercially most successful movies?
+
+Movie Ratings
+
+a) Which countries produce the movies with the highest rating (on average)?
+
+b) Which genres have the highest rating (on average)?
+
+c) Is there a difference between female and male votes?
 
 
 ### Code

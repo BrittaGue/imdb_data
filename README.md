@@ -24,7 +24,7 @@ c) Which directors make the most commercially successful movies (on average)?
 
 d) Which country produces the commercially most successful movies?
 
-Movie Ratings
+### Movie Ratings
 
 a) Which countries produce the movies with the highest rating (on average)?
 

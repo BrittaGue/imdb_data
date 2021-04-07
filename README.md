@@ -17,21 +17,21 @@ The data can be downloaded here: https://www.kaggle.com/stefanoleone992/imdb-ext
 
 2. Analysis of the relationship between budget, worldwide gross income and average rating.
 
-a) Is there a correlation between budget // worldwide gross income // average rating?
+    a) Is there a correlation between budget // worldwide gross income // average rating?
 
-b) How has budget spent on movies and commercial success developed over time?
+    b) How has budget spent on movies and commercial success developed over time?
 
-c) Which directors make the most commercially successful movies (on average)?
+    c) Which directors make the most commercially successful movies (on average)?
 
-d) Which country produces the commercially most successful movies?
+    d) Which country produces the commercially most successful movies?
 
 3. Movie Ratings
 
-a) Which countries produce the movies with the highest rating (on average)?
+    a) Which countries produce the movies with the highest rating (on average)?
 
-b) Which genres have the highest rating (on average)?
+    b) Which genres have the highest rating (on average)?
 
-c) Is there a difference between female and male votes?
+    c) Is there a difference between female and male votes?
 
 
 ### Code

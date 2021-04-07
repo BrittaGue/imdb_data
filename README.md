@@ -13,8 +13,9 @@ The data can be downloaded here: https://www.kaggle.com/stefanoleone992/imdb-ext
 ### Objectives
 
 
-How has the total number of movies being produced each year changed over time?
-Analysis of the relationship between budget, worldwide gross income and average rating.
+1. How has the total number of movies being produced each year changed over time?
+
+2. Analysis of the relationship between budget, worldwide gross income and average rating.
 
 a) Is there a correlation between budget // worldwide gross income // average rating?
 
@@ -24,7 +25,7 @@ c) Which directors make the most commercially successful movies (on average)?
 
 d) Which country produces the commercially most successful movies?
 
-### Movie Ratings
+3. Movie Ratings
 
 a) Which countries produce the movies with the highest rating (on average)?
 

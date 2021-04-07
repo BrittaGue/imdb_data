@@ -27,5 +27,3 @@ Which movies were most polarizing?
 ### Code
 
 This is a python jupyter notebook
-
-https://github.com/BrittaGue/airbnb_berlin/blob/master/Airbnb_Berlin_data.ipynb
